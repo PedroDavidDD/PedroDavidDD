@@ -29,7 +29,7 @@
 
 <br/>
 
-### 📖 Historia del Personaje</h3>
+## [ 📖 Historia del Personaje ]
 ```text
   🌱 Me interesé en programar con JavaScript desde el 2022.  
   👯 Busco incursionar en el desarrollo profesional como desarrollador frontend.  
@@ -37,6 +37,23 @@
   💬 Pregúntame sobre el club secreto de ninfas.  
   📫 Escríbeme al LinkedIn o al Bsky.  
 ```
+
+### [ 📜 Pergamino del Héroe ]
+
+**Pedro David de la Cruz Díaz**  
+*Desarrollador Frontend de 23 años*  
+🏰 Perú - Lima - Pucusana  
+✉️ delacruz0e72ef@outlook.com  
+
+**Logros Destacados (EXP):**  
+- 🏆 Ganador de competencia de desarrollo en Endless Studios  
+- 📜 Certificado Udemy en React y Angular  
+- 🛡️ Experiencia en tiendas MASS fortaleciendo habilidades blandas  
+
+**Disponibilidad:**  
+⚔️ Inmediata | 🌐 Remoto/Presencial  
+
+[![LinkedIn](https://img.shields.io/badge/-Ver_Pergamino_Completo_(LinkedIn)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-david-de-la-cruz-d%C3%ADaz-0bbaa0249/)
 
 <br/>
 
@@ -96,26 +113,6 @@
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-## [ 📜 Pergamino del Héroe ]
-
-<div style="background: url('https://www.transparenttextures.com/patterns/parchment.png'); background-color: #f0e6d2; border-radius: 12px; padding: 20px; border: 2px solid #8B4513; margin: 20px 0; font-family: 'Times New Roman', serif;">
-
-**Pedro David de la Cruz Díaz**  
-*Paladín Frontend de 23 años*  
-🏰 Perú - Lima - Pucusana  
-📞 986 657 935 | ✉️ delacruz0e72ef@outlook.com  
-
-**Logros Destacados:**  
-- 🏆 Ganador de competencia de desarrollo en Endless Studios  
-- 📜 Certificado Udemy en React y Angular  
-- 🛡️ Experiencia en tiendas MASS fortaleciendo habilidades blandas  
-
-**Disponibilidad:**  
-⚔️ Inmediata | 🌐 Remoto/Presencial  
-
-[![LinkedIn](https://img.shields.io/badge/-Ver_Pergamino_Completo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-david-de-la-cruz-d%C3%ADaz-0bbaa0249/)
-</div>
 
 <br/>
 
