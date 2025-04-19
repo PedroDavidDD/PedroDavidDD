@@ -29,36 +29,45 @@
 
 <br/>
 
-<h3 align="center">📖 Historia del Personaje</h3>
-<p align="center">
+### 📖 Historia del Personaje</h3>
+```text
   🌱 Me interesé en programar con JavaScript desde el 2022.  
   👯 Busco incursionar en el desarrollo profesional como desarrollador frontend.  
   🤔 Disponible como desarrollador Freelancer en Upwork y Fiverr.  
   💬 Pregúntame sobre el club secreto de ninfas.  
   📫 Escríbeme al LinkedIn o al Bsky.  
-  📄 <a href="https://drive.google.com/file/d/1cLQ-xINE0sVFkqjhCbQUa0euu8mppC0-/view?usp=sharing">Currículum Vitae en Drive</a>.  
-</p>
+```
 
 <br/>
 
-<h3 align="center">🎮 Proyectos Destacados</h3>
+### 🧮 Proyectos Destacados
 <div align="center">
-  <table style="border: 2px solid #8B4513; background-color: rgba(0, 0, 0, 0.7); color: white; border-radius: 10px; padding: 10px;">
+  <table>
     <tr>
       <td>NotesHub (Completo):</td>
-      <td><a href="https://ornate-dasik-ecc468.netlify.app">🔗 Visitar</a></td>
+      <td><a href="https://ornate-dasik-ecc468.netlify.app">🔗 Ver</a></td>
     </tr>
     <tr>
       <td>Mercado de Clones - The Rick and Morty API (En construcción):</td>
-      <td><a href="https://bejewelled-jelly-05993d.netlify.app/">🔗 Visitar</a></td>
+      <td><a href="https://bejewelled-jelly-05993d.netlify.app/" target="_blank">🔗 Ver</a></td>
     </tr>
     <tr>
       <td>NovelHub (En construcción):</td>
-      <td><a href="https://creative-boba-f8c17c.netlify.app/#/">🔗 Visitar</a></td>
+      <td><a href="https://creative-boba-f8c17c.netlify.app/#/">🔗 Ver</a></td>
     </tr>
     <tr>
       <td>Efecto de Viento en Hojas en Otoño:</td>
-      <td><a href="https://sweet-heliotrope-d95411.netlify.app/">🔗 Visitar</a></td>
+      <td><a href="https://sweet-heliotrope-d95411.netlify.app/">🔗 Ver</a></td>
+    </tr>
+  </table>
+</div>
+
+### 🧮 Proyectos de diseño
+<div align="center">
+  <table>
+    <tr>
+      <td>🚀 Codepen (HTML, CSS, JS):</td>
+       <td><a href="https://codepen.io/AvariciaT">🔗 Ver</a></td>
     </tr>
   </table>
 </div>
