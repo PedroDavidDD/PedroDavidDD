@@ -35,14 +35,12 @@
 <a target="_blank" href="https://medium.com/@ahmedbilal575"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
 
 
-<br>
-</p>
-- 😄 Pronouns: ... We/Us
-- ⚡ Fun fact: ... I am batman. 😎🦇 
+<br />
 
-
+<h3>My GitHub Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 
+<br />
 
 ## 🛠️ My Skills
 
