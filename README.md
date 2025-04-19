@@ -16,7 +16,7 @@
                                 ║                  ESTADÍSTICAS DEL PERSONAJE                  ║
                                 ╠══════════════════════════════════════════════════════════════╣
                                 ║                                                              ║
-                                ║  Nombre:    Pedro David de la Cruz Díaz                      ║
+                                ║  Nombre:    Pedro David De la Cruz Díaz                      ║
                                 ║  Clase:     Estudiante de Ingeniería de Software             ║
                                 ║  Nivel:     Lv. 23 (Practicante Preprofesional)              ║
                                 ║  Puesto:    Desarrollador Frontend                           ║
@@ -31,7 +31,7 @@
 
 ## [ 📜 Pergamino del Héroe ]
 
-**Pedro David de la Cruz Díaz**  
+**Pedro David De la Cruz Díaz**  
 *Desarrollador Frontend de 23 años*  
 🏰 Perú - Lima - Pucusana  
 ✉️ delacruz0e72ef@outlook.com  
