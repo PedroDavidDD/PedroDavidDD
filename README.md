@@ -11,28 +11,21 @@
   <img src="https://i.imgur.com/3QJxJXm.png" alt="Medieval Shield" width="100" />
 </p>
 
-<h3 align="center">Estadísticas del Héroe</h3>
-
-<div align="center">
-  <table style="border: 2px solid #8B4513; background-color: rgba(0, 0, 0, 0.7); color: white; border-radius: 10px; padding: 10px;">
-    <tr>
-      <td>Nombre:</td>
-      <td>Pedro David de la Cruz Díaz</td>
-    </tr>
-    <tr>
-      <td>Clase:</td>
-      <td>Desarrollador Frontend | Estudiante de Ingeniería de Software</td>
-    </tr>
-    <tr>
-      <td>Nivel:</td>
-      <td>Practicante Preprofesional</td>
-    </tr>
-    <tr>
-      <td>Misión:</td>
-      <td>Conquistar el mundo del desarrollo web</td>
-    </tr>
-  </table>
-</div>
+```text
+             ╔══════════════════════════════════════════════════════════════╗
+             ║                  ESTADÍSTICAS DEL HÉROE                      ║
+             ╠══════════════════════════════════════════════════════════════╣
+             ║                                                              ║
+             ║  Nombre:    Pedro David de la Cruz Díaz                      ║
+             ║  Clase:     Estudiante de Ingeniería de Software             ║
+             ║  Nivel:     Lv. 23 (Practicante Preprofesional)              ║
+             ║  Puesto:    Desarrollador Frontend                           ║
+             ║  Gremio:    Gremio Secreto de Ninfas (Upwork/Fiverr)         ║
+             ║  Oro:       2300 piezas (Disponible para contratos)          ║
+             ║  Poción:    React + Angular                                  ║
+             ║                                                              ║
+             ╠══════════════════════════════════════════════════════════════╣
+```
 
 <br/>
 
