@@ -72,7 +72,8 @@
 
 <hr />
 
-## ⭐ Proyectos Destacados ⭐
+<h1 align="center">⭐ Proyectos Destacados ⭐</h1>
+
 ### 🧮 Proyectos Destacados
 <div align="center">
   <table>
@@ -107,7 +108,7 @@
 
 <hr />
 
-## [ ⚔ Hard Skills ⚔ ] 
+<h1 align="center">⚔ Hard Skills ⚔</h1>
 
 ### 🗡️ Armas Principales (Experiencia Actual) ⚔
 
