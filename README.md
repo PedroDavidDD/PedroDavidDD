@@ -41,7 +41,22 @@
 **Disponibilidad:**  
 ⚔️ Inmediata | 🌐 Remoto/Presencial  
 
-[![LinkedIn](https://img.shields.io/badge/-Ver_Pergamino_Completo_(LinkedIn)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-david-de-la-cruz-d%C3%ADaz-0bbaa0249/)
+<hr />
+
+<h3 align="center">✉️ Conecta conmigo</h3>
+<div align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/pedro-david-de-la-cruz-d%C3%ADaz-0bbaa0249">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &emsp;
+  <a target="_blank" href="mailto:delacruz0e72ef@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &emsp;
+  <a target="_blank" href="https://bsky.app/profile/elautordeninfas.bsky.social">
+    <img src="https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=twitter&logoColor=blue" alt="Bluesky" />
+  </a>
+</div>
 
 <hr />
 
@@ -137,23 +152,6 @@
  
   </a>
 
-</div>
-
-<br/>
-
-<h3 align="center">✉️ Conecta conmigo</h3>
-<div align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/pedro-david-de-la-cruz-d%C3%ADaz-0bbaa0249">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &emsp;
-  <a target="_blank" href="mailto:delacruz0e72ef@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &emsp;
-  <a target="_blank" href="https://bsky.app/profile/elautordeninfas.bsky.social">
-    <img src="https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=twitter&logoColor=blue" alt="Bluesky" />
-  </a>
 </div>
 
 <hr/>
