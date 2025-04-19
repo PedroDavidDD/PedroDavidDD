@@ -74,38 +74,47 @@
 
 <br/>
 
-<h3 align="center">🎯 Hard Skills</h3>
-<div align="center">
-  <table style="border: 2px solid #8B4513; background-color: rgba(0, 0, 0, 0.7); color: white; border-radius: 10px; padding: 10px;">
-    <tr>
-      <th>Habilidad</th>
-      <th>Nivel</th>
-    </tr>
-    <tr>
-      <td>Angular</td>
-      <td>⭐⭐⭐⭐</td>
-    </tr>
-    <tr>
-      <td>React</td>
-      <td>⭐⭐⭐⭐</td>
-    </tr>
-    <tr>
-      <td>JavaScript</td>
-      <td>⭐⭐⭐⭐⭐</td>
-    </tr>
-    <tr>
-      <td>SQLServer</td>
-      <td>⭐⭐⭐</td>
-    </tr>
-    <tr>
-      <td>Tailwind CSS</td>
-      <td>⭐⭐⭐⭐</td>
-    </tr>
-    <tr>
-      <td>Figma</td>
-      <td>⭐⭐⭐</td>
-    </tr>
-  </table>
+## [ ⚔ Hard Skills ⚔ ] 
+
+### 🗡️ Armas Principales ⚔ (Experiencia Actual)
+
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+
+### 🛡️ Armas Secundarias (Experiencia Previa) 🏹
+
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🧪 Otras Habilidades
+
+![Zustand](https://img.shields.io/badge/-Zustand-914DB3?style=for-the-badge)  
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+## [ 📜 Pergamino del Héroe ]
+
+<div style="background: url('https://www.transparenttextures.com/patterns/parchment.png'); background-color: #f0e6d2; border-radius: 12px; padding: 20px; border: 2px solid #8B4513; margin: 20px 0; font-family: 'Times New Roman', serif;">
+
+**Pedro David de la Cruz Díaz**  
+*Paladín Frontend de 23 años*  
+🏰 Perú - Lima - Pucusana  
+📞 986 657 935 | ✉️ delacruz0e72ef@outlook.com  
+
+**Logros Destacados:**  
+- 🏆 Ganador de competencia de desarrollo en Endless Studios  
+- 📜 Certificado Udemy en React y Angular  
+- 🛡️ Experiencia en tiendas MASS fortaleciendo habilidades blandas  
+
+**Disponibilidad:**  
+⚔️ Inmediata | 🌐 Remoto/Presencial  
+
+[![LinkedIn](https://img.shields.io/badge/-Ver_Pergamino_Completo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-david-de-la-cruz-d%C3%ADaz-0bbaa0249/)
 </div>
 
 <br/>
