@@ -157,3 +157,5 @@
 </div>
 
 <hr/>
+<img src="https://api.genesistudio.com/storage/v1/render/image/public/directus/98fac6d3-92bf-4f87-b268-e2fdaa49d54b.png?width=900&height=350" alt="Pseudo Resident’s Illegal Stay in Another World" />
+<hr/>
