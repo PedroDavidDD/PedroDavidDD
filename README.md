@@ -140,7 +140,7 @@
 <a>![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)</a>
 
 
-<h3 align="center">📊 Estadísticas de GitHub</h3>
+<h1 align="center">📊 Estadísticas de GitHub</h1>
 <div align="center">
   <a href="https://github.com/PedroDavidDD">
 	  
