@@ -26,7 +26,7 @@
 
 <p>Connect with me on
 <br />	
-<a target="_blank" href="www.linkedin.com/in/pedro-david-de-la-cruz-díaz-0bbaa0249"><img src="www.linkedin.com/in/pedro-david-de-la-cruz-díaz-0bbaa0249"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/pedro-david-de-la-cruz-díaz-0bbaa0249"><img src="www.linkedin.com/in/pedro-david-de-la-cruz-díaz-0bbaa0249"></img></a>
 &emsp;
 <a target="_blank" href="mailto:delacruz0e72ef@outlook.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
