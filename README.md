@@ -54,12 +54,15 @@
 [![Bluesky](https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=twitter&logoColor=blue)](https://bsky.app/profile/elautordeninfas.bsky.social)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51986657935)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/[TU_USUARIO_TELEGRAM])
-[![Discord: avariciatz P3D#9136](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/P3D/9136)
+![Discord](https://img.shields.io/badge/Discord_avariciatz-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 </div>
 
 <h3 align="center">🗡️ Armas Principales (Experiencia Actual) ⚔</h3>
 <div align="center">
+
+
+[![My Skills](https://skillicons.dev/icons?i=angular,react,mysql,js,html,css)](https://skillicons.dev)
 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
