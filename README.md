@@ -1,6 +1,5 @@
 
 
-<img src="www.linkedin.com/in/pedro-david-de-la-cruz-díaz-0bbaa0249" alt="panel" />
 <br />
 
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQE6F9upHNV9tA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1674099135593?e=1750291200&v=beta&t=gUnPLf13Z4Pa9HRLZT_dDNwpqcmMqo6VLCGZ6zsKzco" alt="panel" />
