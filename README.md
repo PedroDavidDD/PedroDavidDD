@@ -43,7 +43,7 @@
 
 <hr />
 
-<h3 align="center">✉️ Conecta conmigo</h3>
+<h3 align="center">📡 Canales de Contacto</h3>
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/pedro-david-de-la-cruz-d%C3%ADaz-0bbaa0249">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
