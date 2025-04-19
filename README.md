@@ -1,10 +1,12 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQE6F9upHNV9tA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1674099135593?e=1750291200&v=beta&t=gUnPLf13Z4Pa9HRLZT_dDNwpqcmMqo6VLCGZ6zsKzco" alt="panel" />
 
-<img src="https://profile-counter.glitch.me/PedroDavidDD/count.svg">
-[![GitHub followers](https://img.shields.io/github/followers/PedroDavidDD.svg?style=social&label=Followers)](https://github.com/PedroDavidDD?tab=followers)
+
+<img src="www.linkedin.com/in/pedro-david-de-la-cruz-díaz-0bbaa0249" alt="medieval panel" />
+
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQE6F9upHNV9tA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1674099135593?e=1750291200&v=beta&t=gUnPLf13Z4Pa9HRLZT_dDNwpqcmMqo6VLCGZ6zsKzco" alt="panel" />
 
 <img src="https://komarev.com/ghpvc/?username=PedroDavidDD&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
+<hr>
 <h3> Estadisticas de mi personaje </h3>
 
 - 🚀 Desarrollador Frontend | 📚 Estudiante de Ingeniería de Software | 🏆 Practicante Preprofesional
@@ -20,6 +22,8 @@
 	-	NovelHub (En construcción): https://creative-boba-f8c17c.netlify.app/#/
  - 🧮 Proyectos de diseño: 🚀 Codepen (HTML, CSS, JS): https://codepen.io/AvariciaT
 
+<hr>
+
 <p>Connect with me on
 <br>	
 <a target="_blank" href="www.linkedin.com/in/pedro-david-de-la-cruz-díaz-0bbaa0249"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
@@ -30,9 +34,9 @@
 <a target="_blank" href="https://bsky.app/profile/elautordeninfas.bsky.social"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=blue"></img></a>
 &emsp;
 
+<hr>
 
 <br>
-
 ##  ⚔ Hard Skills ⚔
 
 ### 🗡 Experiencia Actual 🛡
