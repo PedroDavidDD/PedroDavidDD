@@ -35,12 +35,14 @@
 <a target="_blank" href="https://medium.com/@ahmedbilal575"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
 
 
-
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
 
 <h3>My GitHub Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroDavidDD&show_icons=true&theme=dark&locale=en&layout=compact" alt="pedrodaviddd" /></p>
 
 
+<br><br><br><br><br><br><br>
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
