@@ -10,7 +10,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ahmad!;I'm+a+Flutter+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=PedroDavidDD&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-<img src="[https://komarev.com/ghpvc/?username=PedroDavidDD](https://media.licdn.com/dms/image/v2/D4E16AQE6F9upHNV9tA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1674099135593?e=1750291200&v=beta&t=gUnPLf13Z4Pa9HRLZT_dDNwpqcmMqo6VLCGZ6zsKzco)&label=Views&color=brightgreen&style=flat-square" alt="panel" />
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQE6F9upHNV9tA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1674099135593?e=1750291200&v=beta&t=gUnPLf13Z4Pa9HRLZT_dDNwpqcmMqo6VLCGZ6zsKzco" alt="panel" />
 
 <h3> Estadisticas de mi personaje </h3>
 
