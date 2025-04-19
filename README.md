@@ -48,28 +48,21 @@
   <a target="_blank" href="https://www.linkedin.com/in/pedro-david-de-la-cruz-d%C3%ADaz-0bbaa0249">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &emsp;
   <a target="_blank" href="mailto:delacruz0e72ef@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
-  &emsp;
   <a target="_blank" href="https://bsky.app/profile/elautordeninfas.bsky.social">
     <img src="https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=twitter&logoColor=blue" alt="Bluesky" />
   </a>
-  &emsp;
-  <a target="_blank" href="https://bsky.app/profile/elautordeninfas.bsky.social">
-    <img src="https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=twitter&logoColor=blue" alt="Bluesky" />
+  <a target="_blank" href="https://wa.me/51986657935">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-</div>
-
-## 📡 Canales de Contacto
-
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; margin: 20px 0;">
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51986657935)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/[TU_USUARIO])
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/9136)
-
+  <a target="_blank" href="https://t.me/[TU_USUARIO_TELEGRAM]">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a target="_blank" href="https://discord.com/P3D/9136">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: avariciatz P3D#9136" />
+  </a>
 </div>
 
 <hr />
