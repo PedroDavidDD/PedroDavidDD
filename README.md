@@ -6,22 +6,25 @@
 
 <hr />
 
-<h1 align="center">⚔️ Estadísticas del Héroe ⚔️</h1>
+<h1 align="center">⚔️ Estadísticas Del Desarrollador ⚔️</h1>
+
+
+
 
 ```text
-             ╔══════════════════════════════════════════════════════════════╗
-             ║                  ESTADÍSTICAS DEL HÉROE                      ║
-             ╠══════════════════════════════════════════════════════════════╣
-             ║                                                              ║
-             ║  Nombre:    Pedro David de la Cruz Díaz                      ║
-             ║  Clase:     Estudiante de Ingeniería de Software             ║
-             ║  Nivel:     Lv. 23 (Practicante Preprofesional)              ║
-             ║  Puesto:    Desarrollador Frontend                           ║
-             ║  Gremio:    Gremio Secreto de Ninfas (Upwork/Fiverr)         ║
-             ║  Oro:       2300 piezas (Disponible para contratos)          ║
-             ║  Poción:    React + Angular                                  ║
-             ║                                                              ║
-             ╠══════════════════════════════════════════════════════════════╣
+                                ╔══════════════════════════════════════════════════════════════╗
+                                ║                  ESTADÍSTICAS DEL PERSONAJE                  ║
+                                ╠══════════════════════════════════════════════════════════════╣
+                                ║                                                              ║
+                                ║  Nombre:    Pedro David de la Cruz Díaz                      ║
+                                ║  Clase:     Estudiante de Ingeniería de Software             ║
+                                ║  Nivel:     Lv. 23 (Practicante Preprofesional)              ║
+                                ║  Puesto:    Desarrollador Frontend                           ║
+                                ║  Gremio:    Gremio Secreto de Ninfas (Upwork/Fiverr)         ║
+                                ║  Oro:       2300 piezas (Disponible para contratos)          ║
+                                ║  Poción:    React + Angular                                  ║
+                                ║                                                              ║
+                                ╠══════════════════════════════════════════════════════════════╣
 ```
 
 <hr />
