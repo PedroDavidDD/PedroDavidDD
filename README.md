@@ -45,25 +45,20 @@
 
 <h3 align="center">📡 Canales de Contacto</h3>
 <div align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/pedro-david-de-la-cruz-d%C3%ADaz-0bbaa0249">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a target="_blank" href="mailto:delacruz0e72ef@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a target="_blank" href="https://bsky.app/profile/elautordeninfas.bsky.social">
-    <img src="https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=twitter&logoColor=blue" alt="Bluesky" />
-  </a>
-  <a target="_blank" href="https://wa.me/51986657935">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a target="_blank" href="https://t.me/[TU_USUARIO_TELEGRAM]">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a target="_blank" href="https://discord.com/P3D/9136">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: avariciatz P3D#9136" />
-  </a>
+	
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-david-de-la-cruz-d%C3%ADaz-0bbaa0249)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:delacruz0e72ef@outlook.com)
+[![Bluesky](https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=twitter&logoColor=blue)](https://bsky.app/profile/elautordeninfas.bsky.social)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51986657935)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/[TU_USUARIO_TELEGRAM])
+[![Discord: avariciatz P3D#9136](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/P3D/9136)
+
 </div>
+### 🗡️ Armas Principales (Experiencia Actual) ⚔
+
+<a>![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  </a>
+<a>![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)</a>
+<a>![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)</a>
 
 <hr />
 
@@ -119,35 +114,24 @@
 
 ### 🗡️ Armas Principales (Experiencia Actual) ⚔
 
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+<a>![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  </a>
+<a>![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)</a>
+<a>![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)</a>
 
 
 ### 🛡️ Armas Secundarias (Experiencia Previa) 🏹
-<a>
-	<!-- Zustand -->
-	<img src="https://img.shields.io/badge/Zustand-914DB3?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand">
-	<!-- Redux -->
-	<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-	<!-- Tailwind CSS -->
-	<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-	<!-- Figma -->
-	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-	<!-- Excel -->
-	<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
-	<!-- Java Desktop -->
-	<img src="https://img.shields.io/badge/Java_Desktop-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Desktop">
-	<!-- Java Web -->
-	<img src="https://img.shields.io/badge/Java_Web-5382A1?style=for-the-badge&logo=java&logoColor=white" alt="Java Web">
-	<!-- SASS -->
-	<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
-	<!-- Bootstrap -->
-	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-	<!-- Styled Components -->
-	<img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">
-</a>
-<hr/>
+
+<a>![Zustand](https://img.shields.io/badge/Zustand-914DB3?style=for-the-badge&logo=zustand&logoColor=white) </a>
+<a>![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) </a>
+<a>![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)</a>
+<a>![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)</a>
+<a>![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)</a>
+<a>![Java Desktop](https://img.shields.io/badge/Java_Desktop-ED8B00?style=for-the-badge&logo=java&logoColor=white)</a>
+<a>![Java Web](https://img.shields.io/badge/Java_Web-5382A1?style=for-the-badge&logo=java&logoColor=white)</a>
+<a>![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)</a>
+<a>![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)</a>
+<a>![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)</a>
+
 
 <h3 align="center">📊 Estadísticas de GitHub</h3>
 <div align="center">
