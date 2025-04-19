@@ -4,12 +4,9 @@
 <!-- Contador de Visitas -->
 <img src="https://komarev.com/ghpvc/?username=PedroDavidDD&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
-<hr/>
+<hr />
 
 <h1 align="center">⚔️ Estadísticas del Héroe ⚔️</h1>
-<p align="center">
-  <img src="https://i.imgur.com/3QJxJXm.png" alt="Medieval Shield" width="100" />
-</p>
 
 ```text
              ╔══════════════════════════════════════════════════════════════╗
@@ -27,16 +24,7 @@
              ╠══════════════════════════════════════════════════════════════╣
 ```
 
-<br/>
-
-## [ 📖 Historia del Personaje ]
-```text
-  🌱 Me interesé en programar con JavaScript desde el 2022.  
-  👯 Busco incursionar en el desarrollo profesional como desarrollador frontend.  
-  🤔 Disponible como desarrollador Freelancer en Upwork y Fiverr.  
-  💬 Pregúntame sobre el club secreto de ninfas.  
-  📫 Escríbeme al LinkedIn o al Bsky.  
-```
+<hr />
 
 ### [ 📜 Pergamino del Héroe ]
 
@@ -55,8 +43,21 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Ver_Pergamino_Completo_(LinkedIn)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-david-de-la-cruz-d%C3%ADaz-0bbaa0249/)
 
-<br/>
+<hr />
 
+## [ 📖 Historia del Personaje ]
+
+```text
+  🌱 Me interesé en programar con JavaScript desde el 2022.  
+  👯 Busco incursionar en el desarrollo profesional como desarrollador frontend.  
+  🤔 Disponible como desarrollador Freelancer en Upwork y Fiverr.  
+  💬 Pregúntame sobre el club secreto de ninfas.  
+  📫 Escríbeme al LinkedIn o al Bsky.  
+```
+
+<hr />
+
+## ⭐ Proyectos Destacados ⭐
 ### 🧮 Proyectos Destacados
 <div align="center">
   <table>
@@ -79,7 +80,7 @@
   </table>
 </div>
 
-### 🧮 Proyectos de diseño
+### 🧮 Diseño
 <div align="center">
   <table>
     <tr>
@@ -89,7 +90,7 @@
   </table>
 </div>
 
-<br/>
+<hr />
 
 ## [ ⚔ Hard Skills ⚔ ] 
 
