@@ -34,12 +34,6 @@
 &emsp;
 <a target="_blank" href="https://medium.com/@ahmedbilal575"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
 
-
-
-<h3>My GitHub Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroDavidDD&show_icons=true&theme=dark&locale=en&layout=compact" alt="pedrodaviddd" /></p>
-
-
 <br><br><br><br><br><br><br>
 ## 🛠️ My Skills
 
@@ -136,6 +130,14 @@
 
 <br/>
 
-------
-Credit: [Ahmad-shaikh575](https://github.com/Ahmad-shaikh575)
-Last Edited on: 08/09/2021
+<h3>My GitHub Stats</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroDavidDD&show_icons=true&theme=dark&locale=en&layout=compact" alt="pedrodaviddd" /></p>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PedroDavidDD&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PedroDavidDD&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
