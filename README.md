@@ -6,7 +6,7 @@
 
 <hr/>
 
-<h1 align="center">⚔️ El Desarrollador Frontend Medieval ⚔️</h1>
+<h1 align="center">⚔️ Estadísticas del Héroe ⚔️</h1>
 <p align="center">
   <img src="https://i.imgur.com/3QJxJXm.png" alt="Medieval Shield" width="100" />
 </p>
