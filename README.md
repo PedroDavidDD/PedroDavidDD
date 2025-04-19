@@ -131,8 +131,6 @@
 <br/>
 
 <h3>My GitHub Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroDavidDD&show_icons=true&theme=dark&locale=en&layout=compact" alt="pedrodaviddd" /></p>
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
