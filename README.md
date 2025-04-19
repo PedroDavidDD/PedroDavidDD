@@ -3,13 +3,13 @@
 
 ### Hi there 👋
 
-<img src="https://profile-counter.glitch.me/Ahmad-shaikh575/count.svg">
+<img src="https://profile-counter.glitch.me/PedroDavidDD/count.svg">
 
-[![GitHub followers](https://img.shields.io/github/followers/Ahmad-shaikh575.svg?style=social&label=Followers)](https://github.com/Ahmad-shaikh575?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/PedroDavidDD.svg?style=social&label=Followers)](https://github.com/PedroDavidDD?tab=followers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ahmad!;I'm+a+Flutter+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Ahmad-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+<img src="https://komarev.com/ghpvc/?username=PedroDavidDD&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 <h3> Here's some fun facts about me: </h3>
 
@@ -122,11 +122,7 @@
      <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
     &emsp; <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
     &emsp;
-    
 </p>
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmad-shaikh575&theme=gruvbox" />
-
 
 <br/>
 
