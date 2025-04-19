@@ -26,7 +26,7 @@
 
 <hr />
 
-### [ 📜 Pergamino del Héroe ]
+## [ 📜 Pergamino del Héroe ]
 
 **Pedro David de la Cruz Díaz**  
 *Desarrollador Frontend de 23 años*  
@@ -94,7 +94,7 @@
 
 ## [ ⚔ Hard Skills ⚔ ] 
 
-### 🗡️ Armas Principales ⚔ (Experiencia Actual)
+### 🗡️ Armas Principales (Experiencia Actual) ⚔
 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
