@@ -54,11 +54,15 @@
 [![Discord: avariciatz P3D#9136](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/P3D/9136)
 
 </div>
-### 🗡️ Armas Principales (Experiencia Actual) ⚔
 
-<a>![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  </a>
-<a>![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)</a>
-<a>![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)</a>
+<h3 align="center">🗡️ Armas Principales (Experiencia Actual) ⚔</h3>
+<div align="center">
+
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+</div>
 
 <hr />
 
