@@ -102,20 +102,29 @@
 
 
 ### 🛡️ Armas Secundarias (Experiencia Previa) 🏹
-
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### 🧪 Otras Habilidades
-
-![Zustand](https://img.shields.io/badge/-Zustand-914DB3?style=for-the-badge)  
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-<br/>
+<a>
+	<!-- Zustand -->
+	<img src="https://img.shields.io/badge/Zustand-914DB3?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand">
+	<!-- Redux -->
+	<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+	<!-- Tailwind CSS -->
+	<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+	<!-- Figma -->
+	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+	<!-- Excel -->
+	<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+	<!-- Java Desktop -->
+	<img src="https://img.shields.io/badge/Java_Desktop-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Desktop">
+	<!-- Java Web -->
+	<img src="https://img.shields.io/badge/Java_Web-5382A1?style=for-the-badge&logo=java&logoColor=white" alt="Java Web">
+	<!-- SASS -->
+	<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
+	<!-- Bootstrap -->
+	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+	<!-- Styled Components -->
+	<img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">
+</a>
+<hr/>
 
 <h3 align="center">📊 Estadísticas de GitHub</h3>
 <div align="center">
