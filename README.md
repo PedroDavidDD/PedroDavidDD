@@ -145,14 +145,9 @@
 
 <h1 align="center">📊 Estadísticas de GitHub</h1>
 <div align="center">
-  <a href="https://github.com/PedroDavidDD">
-	  
+
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PedroDavidDD&show_icons=true&title_color=5C3317&text_color=5C3317&icon_color=8B4513&bg_color=e6d5b8&hide_border=true&border_radius=10px&include_all_commits=true&count_private=true" />
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDavidDD&layout=compact&title_color=5C3317&text_color=5C3317&bg_color=e6d5b8&hide_border=true&border_radius=10px" />
-
- 
-  </a>
 
 </div>
 
