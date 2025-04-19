@@ -22,7 +22,7 @@
                                 ║  Puesto:    Desarrollador Frontend                           ║
                                 ║  Gremio:    Gremio Secreto de Ninfas (Upwork/Fiverr)         ║
                                 ║  Oro:       2300 piezas (Disponible para contratos)          ║
-                                ║  Poción:    React + Angular                                  ║
+                                ║  Armas:    React + Angular + SQL Server                      ║
                                 ║                                                              ║
                                 ╠══════════════════════════════════════════════════════════════╣
 ```
