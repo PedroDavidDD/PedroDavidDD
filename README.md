@@ -130,8 +130,7 @@
 
 <br/>
 
-<h3>My GitHub Stats</h3>
-### ⚙️ &nbsp;GitHub Analytics
+<h3>⚙️ &nbsp;My GitHub Stats</h3>
 
 <p align="center">
 <a href="https://github.com/PedroDavidDD">
