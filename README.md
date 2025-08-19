@@ -35,6 +35,8 @@
 *Desarrollador Frontend de 23 años*  
 🏰 Perú - Lima - Pucusana  
 ✉️ delacruz0e72ef@outlook.com  
+✉️ duke0e72ef@gmail.com  
+✉️ avariciatz@gmail.com  
 
 **Logros Destacados (EXP):**  
 - 🏆 Ganador de competencia de desarrollo en Endless Studios  
