@@ -1,5 +1,5 @@
 <!-- Fondo Medieval -->
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQE6F9upHNV9tA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1674099135593?e=1750291200&v=beta&t=gUnPLf13Z4Pa9HRLZT_dDNwpqcmMqo6VLCGZ6zsKzco" alt="panel" />
+<img src="https://images.unsplash.com/photo-1778003586047-69c68f764af5?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="panel" />
 
 <!-- Contador de Visitas -->
 <img src="https://komarev.com/ghpvc/?username=PedroDavidDD&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
