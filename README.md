@@ -1,5 +1,5 @@
 <!-- Fondo Medieval -->
-<img src="https://images.unsplash.com/photo-1778003586047-69c68f764af5?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="panel" />
+<!-- <img src="https://images.unsplash.com/photo-1778003586047-69c68f764af5?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="panel" /> -->
 
 <!-- Contador de Visitas -->
 <img src="https://komarev.com/ghpvc/?username=PedroDavidDD&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
@@ -148,11 +148,11 @@
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PedroDavidDD&show_icons=true&title_color=5C3317&text_color=5C3317&icon_color=8B4513&bg_color=e6d5b8&hide_border=true&border_radius=10px&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDavidDD&layout=compact&title_color=5C3317&text_color=5C3317&bg_color=e6d5b8&hide_border=true&border_radius=10px" />
+<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDavidDD&layout=compact&title_color=5C3317&text_color=5C3317&bg_color=e6d5b8&hide_border=true&border_radius=10px" /> -->
 
 </div>
 
 <h3 align="center">Una de nuestras ninfas comiendo sus dulces</h4>
 <hr/>
-<img src="https://api.genesistudio.com/storage/v1/render/image/public/directus/98fac6d3-92bf-4f87-b268-e2fdaa49d54b.png?width=900&height=350" alt="Pseudo Resident’s Illegal Stay in Another World" />
+<img src="https://i.namu.wiki/i/dckl-rbPE8pIN3CZcPVN6MYpRDvXymC9S351j1f7Icr45woGkW1G2j019GMYYQS1YvN_7H6O43EaWu48BXiELPVTu7umpaDUS73vELMzy-8WWslxZFAoGfiqVAdpz-Q4roAK10UTrmScn1Iaz77IDQ.webp?width=900&height=350" alt="Pseudo Resident’s Illegal Stay in Another World" />
 <hr/>
