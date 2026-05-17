@@ -32,7 +32,7 @@
 ## [ 📜 Pergamino del Héroe ]
 
 **Pedro David De la Cruz Díaz**  
-*Desarrollador Frontend de 23 años*  
+*Desarrollador Frontend de 24 años*  
 🏰 Perú - Lima - Pucusana  
 ✉️ delacruz0e72ef@outlook.com  
 ✉️ duke0e72ef@gmail.com  
