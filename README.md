@@ -79,8 +79,7 @@
 ```text
   🌱 Me interesé en programar con JavaScript desde el 2022.  
   👯 Busco incursionar en el desarrollo profesional como desarrollador frontend.  
-  🤔 Disponible como desarrollador Freelancer en Upwork y Fiverr.  
-  💬 Pregúntame sobre el Gremio Secreto De Ninfas.  
+  🤔 Disponible como desarrollador Freelancer en Upwork y Fiverr.
   📫 Escríbeme al LinkedIn o al Bsky.  
 ```
 
